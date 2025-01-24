@@ -1,1 +1,9 @@
-# top-trader-tracker-on-dexscreener-api
+# Top Trader Tracker API on Dexscreener
+
+Using this API, you can get a top 100 traders for a given pair address on Dexscreener.
+
+Please don't hesitate to contact me if you are interested.
+
+Telegram: [@Ecrypto_1](https://t.me/Ecrypto_1)
+
+Mail: jimkylebasco0221@gmail.com
